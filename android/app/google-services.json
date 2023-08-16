@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075546865314",
+    "project_id": "rowater-8b8e1",
+    "storage_bucket": "rowater-8b8e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075546865314:android:7bb8b5e4523048f19d21fb",
+        "android_client_info": {
+          "package_name": "com.example.water_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075546865314-so31m9hsu9dm3crnrq4n4p61tlcfdgl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4n57gsdcZpt-LWn_TT4KdG262PEg2UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075546865314-so31m9hsu9dm3crnrq4n4p61tlcfdgl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
